@@ -1,0 +1,10 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=0
+ro.allow.mock.location=1
+ro.debuggable=1
+persist.sys.usb.config=modem,nmea,mass_storage,adb,diag
+ro.product.device=front
+ro.build.product=front
+ro.confg.hw_bootversion=V100R001CHNC00B128_BOOT
